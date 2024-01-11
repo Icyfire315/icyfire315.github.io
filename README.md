@@ -11,7 +11,7 @@ This is project that is compulsory for task 5:
 1. To re-use a static website from a previous task.
 2. Deploy it to GitHub to see if it works.
 
-The website came from one of my previous tasks. The folder myWebsite only has the homepage and library of said task. The idea behind the task was to create a online bookstore. If the user seeks to access the Library they are required to sign up or sign in to access the Libray. The blog was available to all.
+The website came from one of my previous tasks. The folder myWebsite only has the homepage and library of said task. The idea behind the task was to create a online bookstore.
 
 ## 2. Project 2 - CV<a name = "pro2"></a>
 
