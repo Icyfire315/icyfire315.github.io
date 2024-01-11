@@ -1,24 +1,18 @@
 # Task 5 - Deployment
-Assignment for bootcamp.
+<sub>Assignment for bootcamp.</sub>
 
 ## Table of Content
 1. [Project 1](#pro1)
 2. [Project 2](#pro2)
    
-## 1. Project 1<a name = "pro1"></a>
+## 1. Project 1 - myWebsite<a name = "pro1"></a>
 
-This is a personal project, for the following reason:
-1. To recap what I've learnt
-2. Cause I'm bored and have nothing better to do.
+This is project that is compulsory for task 5:
+1. To re-use a static website from a previous task.
+2. Deploy it to GitHub to see if it works.
 
-The main idea of this project to help an imaginary bakery create a platform to sell their baked goods. They are relativey new to the market and need help creating a desktop app and a website. They would also like a database to store information about current, done, pending, and cancelled orders.
+The website came from one of my previous tasks. The folder myWebsite only has the homepage and library of said task. The idea behind the task was to create a online bookstore. If the user seeks to access the Library they are required to sign up or sign in to access the Libray. The blog was available to all.
 
-To meet such requirements, the project has been split into four phases. The phases are as follows:
-* The Overview
-* The Desktop Application
-* Adding the database to the application
-* Creating the Website
+## 2. Project 2 - CV<a name = "pro2"></a>
 
-## 2. Project 2<a name = "pro2"></a>
-
-The repositories, except for the overview, will have two or more branches to help finalise the project. The main will be used for confirmed version of the project, the other branches will be used to makes changes, prevent accidental pushes to the main branch etc,.
+This project was based on a previous task, to create a CV using a webpage. Instead of creating a new webpage I've re-used the same old program, just fixed it.
